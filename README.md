@@ -1,9 +1,10 @@
 # Hi, I'm RealDzolat 👋
-
 ## 🚀 About Me
 
 I'm a full stack developer — I specialize in **Lua** and **C++**.
+
 ---
+
 ## 🔗 Links
 
 [![discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6UmV8Mz5nS)
