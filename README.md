@@ -1,31 +1,45 @@
-# Hi, I'm RealDzolat 👋
-## 🚀 About Me
+<br clear="both">
 
-I'm a full stack developer — I specialize in **Lua** and **C++**.
+<h2 align="left">Hi 👋! My name is RealDzolat and I'm a backend developer from Poland, most of my repositories are private, and im currently working on Nexus.</h2>
 
----
+###
 
-## 🔗 Links
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dzolat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dzolat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-[![discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6UmV8Mz5nS)
-[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://celestialcore.cc)
+###
 
-## 👨‍💻 Current Projects
+<img align="right" height="150" src="https://media1.tenor.com/m/z-dER7qz23MAAAAd/killer-queen-yoshikage-kira.gif"  />
 
-- 🔭 I'm currently working on **Celestial Hub**, a Roblox script.
+###
 
-## 🧠 Learning
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+</div>
 
-- I'm currently learning  **Lua**.
+###
 
-## 📫 Contact
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
 
-- Reach me on **Discord**: `realdzolat`
+###
 
-## 😄 Pronouns
+<br clear="both">
 
-- **he/him**
+<img src="https://raw.githubusercontent.com/Dzolat/Dzolat/output/snake.svg" alt="Snake animation" />
 
-## 🛠 Skills
+###
 
-- **Languages:** C++, Lua  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dzolat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dzolat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
