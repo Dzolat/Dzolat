@@ -7,13 +7,6 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dzolat/Dzolat/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Dzolat/Dzolat/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://discord.gg/D7mjnsPZZc" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
