@@ -1,51 +1,42 @@
-<br clear="both">
+<div align="center">
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=RealDzolat&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=header&text=RealDzolat&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=55&animation=fadeIn&theme=tokyonight" /><br/>
+
+<a href="https://discord.gg/rKdRbqg3nQ"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+
 </div>
 
-###
-
-<h1 align="center">Hi, I'm RealDzolat 👋</h1>
-
-###
-
-<h3 align="center">I'm a full stack developer — I specialize in the softwares below</h3>
-
-###
-
-<br clear="both">
+## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+
+**Web**
+
+<img src="https://skillicons.dev/icons?i=vite,js,ts,react" height="42" />
+
+**Backend & Systems**
+
+<img src="https://skillicons.dev/icons?i=nodejs,rust,cpp,cs,powershell,lua" height="42" />
+
+**Tooling**
+
+<img src="https://skillicons.dev/icons?i=discordjs,figma" height="42" />
+
 </div>
 
-###
+## Github Info
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dzolat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dzolat&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" height="170" alt="Top Languages" />
 </div>
 
-###
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Dzolat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
